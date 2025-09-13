@@ -22,11 +22,9 @@
 ## 🌸 About Me
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🎓 **2nd-year BSc (Hons) in Business Information Systems** undergraduate at the University of Sri Jayewardenepura  
+- 🎓 **2nd-year BSc (Hons) in Business Information Systems** undergraduate at the University of Sri Jayewardenepura
+- 🎓 **2nd-year Bachelor of Information Technology (BIT) external degree** undergraduate at the University of Moratuwa
 - 💻 Interested in **software development**, **web applications**, and **database systems**  
-- 🔧 Currently working on:
-  - A **Desktop-Based Unemployment Support & Job Matching System** using **C# and Python**
-  - A **Smart HR Employee & Payroll Manager** web application (BIT project – University of Moratuwa)
 - 🌱 Learning **C#**, **SQL**, and **modern web development technologies** to build scalable business solutions  
 - 💡 Passionate about **problem-solving**, **clean code**, and creating meaningful digital experiences
 
@@ -38,6 +36,7 @@
 ### Programming & Development
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
@@ -55,7 +54,6 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" alt="Postman" width="40" height="40"/>
 </p>
 
 </div>
@@ -67,6 +65,17 @@
   <img src="https://streak-stats.demolab.com?user=nayanthi-weerasuriya&theme=radical&hide_border=true&background=0D1117&stroke=FF6BD6&ring=8B5CF6&fire=FF6BD6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6BD6&sideLabels=8B5CF6&dates=8B5CF6" alt="GitHub Streak Stats"/>
 </div>
 
+
+---
+
+## 🐍 Contribution Snake
+<div align="center">
+
+![GitHub Contribution Snake](https://github.com/nayanthi-weerasuriya/nayanthi-weerasuriya/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+
 ---
 
 ## 🚀 Featured Projects
@@ -75,7 +84,7 @@
 | Project | Description | Technologies |
 | :-----: | :---------- | :----------- |
 | **[Smart HR Employee & Payroll Manager](https://github.com/)** | Web-based HR & Payroll system for efficient employee management | <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white"/> |
-| **Unemployment Support & Job Matching System** | Desktop-based platform for job seekers and employers | <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white"/> |
+| **Budget Buddy** | A user-friendly personal finance management tool built with Python, MYSQL and Tkinter. Budget Buddy helps you track expenses, set monthly budgets, and monitor your spending habits. | <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white"/> |
 
 </div>
 
