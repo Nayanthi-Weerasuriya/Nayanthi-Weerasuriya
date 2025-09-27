@@ -71,8 +71,7 @@
 ## 🐍 Contribution Snake
 <div align="center">
 
-![GitHub Contribution Snake](https://github.com/nayanthi-weerasuriya/nayanthi-weerasuriya/blob/output/github-contribution-grid-snake.svg)
-
+![Snake animation](./dist/github-contribution-grid-snake.svg)
 </div>
 
 
