@@ -22,8 +22,8 @@
 ## 🌸 About Me
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🎓 **2nd-year BSc (Hons) in Business Information Systems** undergraduate at the University of Sri Jayewardenepura
-- 🎓 **2nd-year Bachelor of Information Technology (BIT) external degree** undergraduate at the University of Moratuwa
+- 🎓 **2nd-year BSc (Hons) in Business Information Systems** undergraduate at University of Sri Jayewardenepura
+- 🎓 **2nd-year Bachelor of Information Technology (BIT) external degree** undergraduate at University of Moratuwa
 - 💻 Interested in **software development**, **web applications**, and **database systems**  
 - 🌱 Learning **C#**, **SQL**, and **modern web development technologies** to build scalable business solutions  
 - 💡 Passionate about **problem-solving**, **clean code**, and creating meaningful digital experiences
@@ -84,7 +84,7 @@
 | Project | Description | Technologies |
 | :-----: | :---------- | :----------- |
 | **[Smart HR Employee & Payroll Manager](https://github.com/)** | Web-based HR & Payroll system for efficient employee management | <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white"/> |
-| **Budget Buddy** | A user-friendly personal finance management tool built with Python, MYSQL and Tkinter. Budget Buddy helps you track expenses, set monthly budgets, and monitor your spending habits. | <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white"/> |
+| **[Budget Buddy](https://github.com/Nayanthi-Weerasuriya/budget_buddy)** | A user-friendly personal finance management tool built with Python, MYSQL and Tkinter. Budget Buddy helps you track expenses, set monthly budgets, and monitor your spending habits. | <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white"/> |
 
 </div>
 
@@ -92,10 +92,10 @@
 
 ## 🌱 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="www.linkedin.com/in/nayanthi-weerasuriya-457560268" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:nayanthiweerasuriya2003@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
