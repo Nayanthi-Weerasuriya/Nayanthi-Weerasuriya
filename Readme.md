@@ -20,7 +20,7 @@
 ---
 
 ## 🌸 About Me
-<img align="right" alt="Coding" width="400" src="blob:https://github.com/2e61670b-1e4f-42cf-99ac-6d4e887b639f">
+<img align="right" alt="Coding" width="400" src="[Woman Coding GIF by Pluralsight.gif](https://github.com/Nayanthi-Weerasuriya/Nayanthi-Weerasuriya/blob/main/Woman%20Coding%20GIF%20by%20Pluralsight.gif)">
 
 - 🎓 **2nd-year BSc (Hons) in Business Information Systems** undergraduate at University of Sri Jayewardenepura
 - 🎓 **2nd-year Bachelor of Information Technology (BIT) external degree** undergraduate at University of Moratuwa
