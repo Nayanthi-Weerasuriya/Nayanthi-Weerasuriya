@@ -20,7 +20,7 @@
 ---
 
 ## 🌸 About Me
-<img align="right" alt="Coding" width="400" src="[https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjJ6MjM2YzF5OTk2dnh3ZW41aXBhbW1vNnk0Y3htcnYyZnpsMHhqZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)">
+<img align="right" alt="Coding" width="400" src="blob:https://github.com/2e61670b-1e4f-42cf-99ac-6d4e887b639f">
 
 - 🎓 **2nd-year BSc (Hons) in Business Information Systems** undergraduate at University of Sri Jayewardenepura
 - 🎓 **2nd-year Bachelor of Information Technology (BIT) external degree** undergraduate at University of Moratuwa
