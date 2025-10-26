@@ -19,7 +19,7 @@
 
 ---
 
-## 🌸 About Me
+## About Me
 <div style="text-align: right;">
   <img src="https://raw.githubusercontent.com/Nayanthi-Weerasuriya/Nayanthi-Weerasuriya/main/Woman%20Coding%20GIF%20by%20Pluralsight.gif" alt="Woman Coding Animation" width="400" align="right">
 </div>
@@ -32,7 +32,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 <div align="center">
 
 ### Programming & Development
@@ -62,7 +62,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=nayanthi-weerasuriya&theme=radical&hide_border=true&background=0D1117&stroke=FF6BD6&ring=8B5CF6&fire=FF6BD6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6BD6&sideLabels=8B5CF6&dates=8B5CF6" alt="GitHub Streak Stats"/>
 </div>
@@ -70,7 +70,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 <div align="center">
 
 ![Snake animation](./dist/github-contribution-grid-snake.svg)
@@ -79,7 +79,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 <div align="center">
 
 | Project | Description | Technologies |
@@ -91,7 +91,7 @@
 
 ---
 
-## 🌱 Connect With Me
+## Connect With Me
 <p align="center">
   <a href="www.linkedin.com/in/nayanthi-weerasuriya-457560268" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
