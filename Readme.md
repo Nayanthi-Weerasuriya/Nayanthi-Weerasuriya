@@ -93,7 +93,7 @@
 
 ## Connect With Me
 <p align="center">
-  <a href="www.linkedin.com/in/nayanthi-weerasuriya-457560268" target="_blank">
+  <a href=["www.linkedin.com/in/nayanthi-weerasuriya-457560268"](https://www.linkedin.com/in/nayanthi-weerasuriya-457560268/) target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:nayanthiweerasuriya2003@gmail.com">
