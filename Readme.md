@@ -1,22 +1,23 @@
 <!-- Profile README for Nayanthi Weerasuriya -->
 <!-- Workflow marker - do not remove -->
 
+<!-- HEADER -->
 <div align="center">
   <h1>✨ Nayanthi Weerasuriya ✨</h1>
-  <h3>BIS &amp; IT Undergraduate | Building &amp; Learning</h3>
+
 </div>
 
-  <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1200&color=FF6BD6&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+profile;Business+Information+Systems+%26+IT+Undergraduate;Turning+Ideas+into+Practical+Projects;Always+Curious%2C+Always+Learning" alt="Animated introduction" />
-  </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1200&color=FF6BD6&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+profile;Business+Information+Systems+%26+IT+Undergraduate;Turning+Ideas+into+Practical+Projects;Always+Curious%2C+Always+Learning" alt="Animated introduction" />
+</p>
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=nayanthi-weerasuriya&style=flat-square&color=FF6BD6" alt="Profile views" />
-    <img src="https://img.shields.io/badge/Based%20in-Sri%20Lanka-FF6BD6?style=flat-square" alt="Based in Sri Lanka" />
-    <img src="https://img.shields.io/badge/Open%20to-Opportunities-22C55E?style=flat-square" alt="Open to opportunities" />
-    <img src="https://img.shields.io/github/followers/nayanthi-weerasuriya?style=flat-square&color=8B5CF6&logo=github&logoColor=white" alt="GitHub followers" />
-  </p>
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nayanthi-weerasuriya&style=flat-square&color=FF6BD6" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Based%20in-Sri%20Lanka-FF6BD6?style=flat-square" alt="Based in Sri Lanka" />
+  <img src="https://img.shields.io/badge/Open%20to-Opportunities-22C55E?style=flat-square" alt="Open to opportunities" />
+  <img src="https://img.shields.io/github/followers/nayanthi-weerasuriya?style=flat-square&color=8B5CF6&logo=github&logoColor=white" alt="GitHub followers" />
+</p>
+
 
 ---
 
