@@ -50,6 +50,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
 
 ### Databases
 
@@ -70,9 +71,9 @@
 
 | Project | Description | Tools & Technologies |
 | :--- | :--- | :--- |
-| **[Apex Investigation — Digital Forensics](https://github.com/Nayanthi-Weerasuriya/autopsy-digital-forensics-investigation)** | Investigated a fictional disk image, verified evidence integrity, recovered deleted files, and examined browser history, email artefacts, and timelines. | Autopsy · SHA-256 · Windows |
+| **[Apex Investigation - Digital Forensics](https://github.com/Nayanthi-Weerasuriya/autopsy-digital-forensics-investigation)** | Investigated a fictional disk image, verified evidence integrity, recovered deleted files, and examined browser history, email artefacts, and timelines. | Autopsy · SHA-256 · Windows |
 | **[Budget Buddy](https://github.com/Nayanthi-Weerasuriya/budget_buddy)** | Personal finance application for tracking expenses, setting monthly budgets, and reviewing spending habits. | Python · MySQL · Tkinter |
-| **Smart HR Employee & Payroll Manager** | Web-based HR and payroll system for managing employee information and payroll processes. | C# · SQL |
+| **[Smart HR Employee & Payroll Manager](https://github.com/Nayanthi-Weerasuriya/SmartHR_Employee_Manager)** | Web-based HR and payroll system for managing employee information and payroll processes. | C# · SQL |
 
 ---
 
