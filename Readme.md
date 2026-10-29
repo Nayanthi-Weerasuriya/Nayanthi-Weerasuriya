@@ -23,8 +23,8 @@
 
 <img src="https://raw.githubusercontent.com/Nayanthi-Weerasuriya/Nayanthi-Weerasuriya/main/Woman%20Coding%20GIF%20by%20Pluralsight.gif" alt="Woman coding animation" width="300" align="right" />
 
-- 🎓 **BSc (Hons) in Business Information Systems** undergraduate at the **University of Sri Jayewardenepura**.
-- 🎓 **Bachelor of Information Technology (External)** undergraduate at the **University of Moratuwa**.
+- 🎓 **BSc (Hons) in Business Information Systems** undergraduate at **University of Sri Jayewardenepura**.
+- 🎓 **Bachelor of Information Technology (External)** undergraduate at **University of Moratuwa**.
 - 💻 Exploring **web development, database systems, and cybersecurity**.
 - 🛠️ Working with **C#, Python, SQL, and web technologies** through academic and personal projects.
 - 💡 Interested in how technology can solve everyday problems and support business needs.
