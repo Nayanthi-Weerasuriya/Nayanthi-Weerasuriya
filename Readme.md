@@ -2,8 +2,7 @@
 <!-- Workflow marker - do not remove -->
 
 <!-- HEADER -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Nayanthi%20Weerasuriya&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=BIS%20%26%20IT%20Undergraduate%20%7C%20Building%20%26%20Learning&descAlignY=55&descSize=20" alt="Nayanthi Weerasuriya profile banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=200&section=header&text=Nayanthi%20Weerasuriya&fontSize=45&fontColor=FFFFFF&fontAlignY=35&desc=BIS%20%26%20IT%20Undergraduate&descAlignY=55&descSize=20" alt="Nayanthi Weerasuriya" />
 
   <p>
     <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1200&color=FF6BD6&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+profile;Business+Information+Systems+%26+IT+Undergraduate;Turning+Ideas+into+Practical+Projects;Always+Curious%2C+Always+Learning" alt="Animated introduction" />
@@ -88,11 +87,12 @@
 
 ---
 
-## Connect With Me
+<h2>Connect With Me</h2>
 
 <div align="center">
   <p>Let’s connect, exchange ideas, and build something useful.</p>
-
+  <a href="https://www.linkedin.com/in/nayanthi-weerasuriya-457560268/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>&nbsp;&nbsp;<a href="mailto:nayanthiweerasuriya2003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact by email" /></a>
+</div>
   <a href="https://www.linkedin.com/in/nayanthi-weerasuriya-457560268/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
