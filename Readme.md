@@ -24,8 +24,8 @@
   <img src="https://raw.githubusercontent.com/Nayanthi-Weerasuriya/Nayanthi-Weerasuriya/main/Woman%20Coding%20GIF%20by%20Pluralsight.gif" alt="Woman Coding Animation" width="400" align="right">
 </div>
 
-- 🎓 **2nd-year BSc (Hons) in Business Information Systems** undergraduate at University of Sri Jayewardenepura
-- 🎓 **2nd-year Bachelor of Information Technology (BIT) external degree** undergraduate at University of Moratuwa
+- 🎓 **3rd-year BSc (Hons) in Business Information Systems** undergraduate at University of Sri Jayewardenepura
+- 🎓 **3rd-year Bachelor of Information Technology (BIT) external degree** undergraduate at University of Moratuwa
 - 💻 Interested in **software development**, **web applications**, and **database systems**  
 - 🌱 Learning **C#**, **SQL**, and **modern web development technologies** to build scalable business solutions  
 - 💡 Passionate about **problem-solving**, **clean code**, and creating meaningful digital experiences
